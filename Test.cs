@@ -8,6 +8,7 @@ public class Test : MonoBehaviour
     private void Start()
     {
         Debug.Log($"Test repository");
+        Debug.Log($"Новая строка");
     }
 
     private void Awake()
