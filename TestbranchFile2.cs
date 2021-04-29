@@ -9,9 +9,9 @@ public class TestbranchFile : MonoBehaviour
     {
         Debug.Log($"Test repository");
         Debug.Log($"Новая строка");
-        Debug.Log($"Новая строка в мейне");
+
         Debug.Log($"Новая строка в ветке");
-        Debug.Log($"Еще одна строка в ветке");
+
         
     }
 
